@@ -1,0 +1,19 @@
+{
+  "metrics": [
+    { "id": 1, "name": "Design a version control strategy" },
+    { "id": 2, "name": "Implement and integrate source control" },
+    { "id": 3, "name": "Implement and manage build infrastructure" }
+  ],
+  "practices": [
+    "Configuration management",
+    "Release management",
+    "Continuous integration",
+    "Continuous deployment",
+    "Infrastructure as Code",
+    "Test automation",
+    "Application performance monitoring"
+  ],
+  "profile": {
+    "name": "David"
+  }
+}
